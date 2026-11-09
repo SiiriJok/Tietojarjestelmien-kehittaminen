@@ -1,2 +1,3 @@
 "moi"
 "Hei"
+"Terve"
